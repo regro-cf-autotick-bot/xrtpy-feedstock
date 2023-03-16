@@ -1,11 +1,11 @@
-About xrtpy
-===========
+About xrtpy-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xrtpy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/HinodeXRT/xrtpy
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xrtpy-feedstock/blob/main/LICENSE.txt)
 
 Summary: XRTpy is Python package for analyzing data from the X-Ray Telescope instrument onboard the Hinode spacecraft.
 
