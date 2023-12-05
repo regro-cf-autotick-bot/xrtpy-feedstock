@@ -1,5 +1,5 @@
 {% set name = "xrtpy" %}
-{% set version = "0.2.0" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/xrtpy-{{ version }}.tar.gz
-  sha256: aa54ad311858dd9ffa6ac959d92b7f86907791436c45e76226e2fae51ea70dc3
+  sha256: b5a01cec1a5c8f684c47c4018f19c1877f35cbe6a361fe6d361572808e20e029
 
 build:
   noarch: python
